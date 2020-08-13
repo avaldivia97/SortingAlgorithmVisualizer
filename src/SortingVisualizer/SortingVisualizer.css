@@ -1,0 +1,12 @@
+.array-container {
+  position: relative;
+  margin-top: 20px;
+}
+
+.array-bar {
+  height: 5px;
+  background-color: rgb(145, 170, 239);
+
+  display: block;
+  margin: 2px;
+}
