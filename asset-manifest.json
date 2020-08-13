@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/avaldivia97/SortingAlgorithmVisualizer/static/css/main.6b868cc1.chunk.css",
+    "main.js": "/avaldivia97/SortingAlgorithmVisualizer/static/js/main.c2629089.chunk.js",
+    "main.js.map": "/avaldivia97/SortingAlgorithmVisualizer/static/js/main.c2629089.chunk.js.map",
+    "runtime-main.js": "/avaldivia97/SortingAlgorithmVisualizer/static/js/runtime-main.a5dd98c5.js",
+    "runtime-main.js.map": "/avaldivia97/SortingAlgorithmVisualizer/static/js/runtime-main.a5dd98c5.js.map",
+    "static/js/2.433ee533.chunk.js": "/avaldivia97/SortingAlgorithmVisualizer/static/js/2.433ee533.chunk.js",
+    "static/js/2.433ee533.chunk.js.map": "/avaldivia97/SortingAlgorithmVisualizer/static/js/2.433ee533.chunk.js.map",
+    "index.html": "/avaldivia97/SortingAlgorithmVisualizer/index.html",
+    "precache-manifest.98fd33bb9b6333533db5469d39ac4802.js": "/avaldivia97/SortingAlgorithmVisualizer/precache-manifest.98fd33bb9b6333533db5469d39ac4802.js",
+    "service-worker.js": "/avaldivia97/SortingAlgorithmVisualizer/service-worker.js",
+    "static/css/main.6b868cc1.chunk.css.map": "/avaldivia97/SortingAlgorithmVisualizer/static/css/main.6b868cc1.chunk.css.map",
+    "static/js/2.433ee533.chunk.js.LICENSE.txt": "/avaldivia97/SortingAlgorithmVisualizer/static/js/2.433ee533.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5dd98c5.js",
+    "static/js/2.433ee533.chunk.js",
+    "static/css/main.6b868cc1.chunk.css",
+    "static/js/main.c2629089.chunk.js"
+  ]
+}
